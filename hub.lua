@@ -1,3 +1,5 @@
+Launcher.Launcher:Destroy()
+
 _WAma5XzHLdMM6tcH, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
